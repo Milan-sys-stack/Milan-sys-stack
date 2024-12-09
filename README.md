@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋, I am Milan Ghimire
+**Web Developer | Software Engineer**
 
-<!--
-**Milan-sys-stack/Milan-sys-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌍 I'm based in Australia
+- 🧠 I’m currently learning **Next.js**
+- 📫 How to reach me: milanghimire656@gmail.com
+- 🤝  I'm open to collaborating on projects
+- ⚡  I love finding bugs and solving issues
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills
+- **Languages**: TypeScript, JavaScript, HTML5, CSS3  
+- **Frameworks & Libraries**: React, Next.js, Redux, Mobx, TailwindCSS, Material-UI, Bootstrap 
+- **Backend**: Node.js, Express  
+- **Databases**: MongoDB, MySQL, PostgreSQL  
+- **Tools & Platforms**: Git, Vite, Docker, AWS  
